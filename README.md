@@ -1,3 +1,3 @@
 # Data-Science
 
-This is the repoqitory of my personal data sceince projects.
+This is the repository of my personal data science projects.
